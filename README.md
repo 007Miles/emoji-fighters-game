@@ -1,2 +1,2 @@
 # Emoji-Fighters-Game
-Mini game of emoji fighters where a random two emojis are generated
+Mini game of emoji fighters where some random two emojis are generated
